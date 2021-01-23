@@ -1,7 +1,11 @@
 {
 	"lastver": "105",
 	"nlink": "sdf",
-	"three": [],
+	"three": [
+		["Dmitry_Dorinov", 150],
+		["Evan_Steart", 150],
+		["Asaka_Tarrego", 150]
+		],
 	"one": [],
 	"two": []
 }
