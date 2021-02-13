@@ -2,12 +2,14 @@
 	"lastver": "119",
 	"nlink": "https://cdn.discordapp.com/attachments/625233643966824470/805478113281572884/reporter_helper.luac",
 	"three": [
-		["Nikolay_Wilde", 500],
-		["Alexsandr_Wilde", 500],
-		["Svetlana_Wilde", 500],
+		["Nick_Name", 150],
+		["Nikolay_Wilde", 330],
+		["Alexsandr_Wilde", 330],
+		["Svetlana_Wilde", 330],
 		["No_Name", 330],
 		],
 	"one": [
+		["Nick_Name", 150],
 		["Light_Nisimuro", 330]
 		],
 	"two": []
